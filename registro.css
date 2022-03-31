@@ -1,0 +1,56 @@
+body
+{
+  margin:5px;
+  position:absolute
+
+}
+
+
+header
+{   text-align: center;
+    font-style: italic;
+    font-size: 85px;
+    font-family:cursive;
+    color: blueviolet;
+    border:dashed 5px  black;
+    /*background-color: lightcoral;*/
+  
+}
+.logo
+{
+ width: 120px;
+ float: right;
+}
+
+
+aside 
+{
+        width: 20%;
+        height: 400px;
+        float: right;
+        font-style: italic;
+        text-align: center;
+        background-color: rgb(253, 178, 81);
+        overflow:auto;
+        border: 3px solid black;    
+      
+    }
+nav
+      {
+      text-align: center;
+      }
+
+
+.primero
+{
+  text-align: center;
+  padding: 95px;
+  font-family: fantasy;
+  font-size: 60px;
+}
+footer
+{
+background-color: rgb(247, 137, 48);
+padding: 10px;
+border:outset 5px;
+}
